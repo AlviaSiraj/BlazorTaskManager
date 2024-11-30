@@ -75,6 +75,6 @@ C:\Users\alvia\OneDrive\Documents\interviewPrep\blazor-app\BlazorApp\obj\Debug\n
 C:\Users\alvia\OneDrive\Documents\interviewPrep\blazor-app\BlazorApp\obj\Debug\net9.0\ref\BlazorApp.dll
 C:\Users\alvia\OneDrive\Documents\interviewPrep\blazor-app\BlazorApp\obj\Debug\net9.0\scopedcss\Components\Layout\AddToDo.razor.rz.scp.css
 C:\Users\alvia\OneDrive\Documents\interviewPrep\blazor-app\BlazorApp\obj\Debug\net9.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
-C:\Users\alvia\OneDrive\Documents\interviewPrep\blazor-app\BlazorApp\obj\Debug\net9.0\compressed\niqfivrdr6-zxiz86ws8d.gz
-C:\Users\alvia\OneDrive\Documents\interviewPrep\blazor-app\BlazorApp\obj\Debug\net9.0\compressed\io2m3ndci8-c3cr2i76in.gz
-C:\Users\alvia\OneDrive\Documents\interviewPrep\blazor-app\BlazorApp\obj\Debug\net9.0\compressed\wo77s772mi-c3cr2i76in.gz
+C:\Users\alvia\OneDrive\Documents\interviewPrep\blazor-app\BlazorApp\obj\Debug\net9.0\compressed\niqfivrdr6-0sgxkvnduc.gz
+C:\Users\alvia\OneDrive\Documents\interviewPrep\blazor-app\BlazorApp\obj\Debug\net9.0\compressed\io2m3ndci8-w28kdzg5y3.gz
+C:\Users\alvia\OneDrive\Documents\interviewPrep\blazor-app\BlazorApp\obj\Debug\net9.0\compressed\wo77s772mi-w28kdzg5y3.gz

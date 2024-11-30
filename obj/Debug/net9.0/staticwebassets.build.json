@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "942+fM2DQDsYBOFJpJTwMwZi2P3dqL0lXESbHyNkgIM=",
+  "Hash": "f2WAX+Yxnj7CtzaKT5Cf+f+GWuoFoILxwSywuIJU9W8=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -479,12 +479,12 @@
       "OriginalItemSpec": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\io2m3ndci8-c3cr2i76in.gz",
+      "Identity": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\io2m3ndci8-w28kdzg5y3.gz",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BlazorApp",
-      "RelativePath": "BlazorApp#[.{fingerprint=c3cr2i76in}]?.styles.css.gz",
+      "RelativePath": "BlazorApp#[.{fingerprint=w28kdzg5y3}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -493,8 +493,8 @@
       "RelatedAsset": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "f649x5wbpl",
-      "Integrity": "mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk=",
+      "Fingerprint": "ug9giol8hn",
+      "Integrity": "7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorApp.styles.css"
@@ -647,12 +647,12 @@
       "OriginalItemSpec": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-zxiz86ws8d.gz",
+      "Identity": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-0sgxkvnduc.gz",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BlazorApp",
-      "RelativePath": "app#[.{fingerprint=zxiz86ws8d}]?.css.gz",
+      "RelativePath": "app#[.{fingerprint=0sgxkvnduc}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -661,8 +661,8 @@
       "RelatedAsset": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wnfb2152gn",
-      "Integrity": "DNpJgvmUyh0JJMNv1mAyOMxDWewntzSkBsLYhNAPfgA=",
+      "Fingerprint": "4uh72akgni",
+      "Integrity": "DEAzy+hc6GhAR4KBgN4AvR2Tk6X2nfEisi5mMvBQyus=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\wwwroot\\app.css"
@@ -878,12 +878,12 @@
       "OriginalItemSpec": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\wo77s772mi-c3cr2i76in.gz",
+      "Identity": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\wo77s772mi-w28kdzg5y3.gz",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BlazorApp",
-      "RelativePath": "BlazorApp#[.{fingerprint=c3cr2i76in}]!.bundle.scp.css.gz",
+      "RelativePath": "BlazorApp#[.{fingerprint=w28kdzg5y3}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -892,8 +892,8 @@
       "RelatedAsset": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "f649x5wbpl",
-      "Integrity": "mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk=",
+      "Fingerprint": "ug9giol8hn",
+      "Integrity": "7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "c3cr2i76in",
-      "Integrity": "+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw=",
+      "Fingerprint": "w28kdzg5y3",
+      "Integrity": "6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorApp.styles.css"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "c3cr2i76in",
-      "Integrity": "+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw=",
+      "Fingerprint": "w28kdzg5y3",
+      "Integrity": "6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zxiz86ws8d",
-      "Integrity": "WdXcdV0LP4uD17SAEDpCX17reQsSSwrcPMPcylUpjaE=",
+      "Fingerprint": "0sgxkvnduc",
+      "Integrity": "MPODKwmQ2NJFH5eMMRw/XQ62CS2b3xJxIWmZOb+gW5Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -2014,13 +2014,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "app.css",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-zxiz86ws8d.gz",
+      "Route": "app.0sgxkvnduc.css",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-0sgxkvnduc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000636132316"
+          "Quality": "0.000622277536"
         }
       ],
       "ResponseHeaders": [
@@ -2030,19 +2030,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1571"
+          "Value": "1606"
         },
         {
           "Name": "ETag",
-          "Value": "\"DNpJgvmUyh0JJMNv1mAyOMxDWewntzSkBsLYhNAPfgA=\""
+          "Value": "\"DEAzy+hc6GhAR4KBgN4AvR2Tk6X2nfEisi5mMvBQyus=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Nov 2024 21:25:32 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:04 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2058,18 +2058,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"WdXcdV0LP4uD17SAEDpCX17reQsSSwrcPMPcylUpjaE=\""
+          "Value": "W/\"MPODKwmQ2NJFH5eMMRw/XQ62CS2b3xJxIWmZOb+gW5Q=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "0sgxkvnduc"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-WdXcdV0LP4uD17SAEDpCX17reQsSSwrcPMPcylUpjaE="
+          "Value": "sha256-MPODKwmQ2NJFH5eMMRw/XQ62CS2b3xJxIWmZOb+gW5Q="
         }
       ]
     },
     {
-      "Route": "app.css",
+      "Route": "app.0sgxkvnduc.css",
       "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2079,7 +2087,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2902"
+          "Value": "2965"
         },
         {
           "Name": "Content-Type",
@@ -2087,121 +2095,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WdXcdV0LP4uD17SAEDpCX17reQsSSwrcPMPcylUpjaE=\""
+          "Value": "\"MPODKwmQ2NJFH5eMMRw/XQ62CS2b3xJxIWmZOb+gW5Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Nov 2024 21:25:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WdXcdV0LP4uD17SAEDpCX17reQsSSwrcPMPcylUpjaE="
-        }
-      ]
-    },
-    {
-      "Route": "app.css.gz",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-zxiz86ws8d.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1571"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DNpJgvmUyh0JJMNv1mAyOMxDWewntzSkBsLYhNAPfgA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 29 Nov 2024 21:25:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DNpJgvmUyh0JJMNv1mAyOMxDWewntzSkBsLYhNAPfgA="
-        }
-      ]
-    },
-    {
-      "Route": "app.zxiz86ws8d.css",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-zxiz86ws8d.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000636132316"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1571"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DNpJgvmUyh0JJMNv1mAyOMxDWewntzSkBsLYhNAPfgA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 29 Nov 2024 21:25:32 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:04 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"WdXcdV0LP4uD17SAEDpCX17reQsSSwrcPMPcylUpjaE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zxiz86ws8d"
+          "Value": "0sgxkvnduc"
         },
         {
           "Name": "label",
@@ -2209,13 +2117,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WdXcdV0LP4uD17SAEDpCX17reQsSSwrcPMPcylUpjaE="
+          "Value": "sha256-MPODKwmQ2NJFH5eMMRw/XQ62CS2b3xJxIWmZOb+gW5Q="
         }
       ]
     },
     {
-      "Route": "app.zxiz86ws8d.css",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\wwwroot\\app.css",
+      "Route": "app.0sgxkvnduc.css.gz",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-0sgxkvnduc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2224,7 +2132,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2902"
+          "Value": "1606"
         },
         {
           "Name": "Content-Type",
@@ -2232,56 +2140,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WdXcdV0LP4uD17SAEDpCX17reQsSSwrcPMPcylUpjaE=\""
+          "Value": "\"DEAzy+hc6GhAR4KBgN4AvR2Tk6X2nfEisi5mMvBQyus=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Nov 2024 21:25:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zxiz86ws8d"
-        },
-        {
-          "Name": "label",
-          "Value": "app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WdXcdV0LP4uD17SAEDpCX17reQsSSwrcPMPcylUpjaE="
-        }
-      ]
-    },
-    {
-      "Route": "app.zxiz86ws8d.css.gz",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-zxiz86ws8d.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1571"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DNpJgvmUyh0JJMNv1mAyOMxDWewntzSkBsLYhNAPfgA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 29 Nov 2024 21:25:32 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2299,7 +2162,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zxiz86ws8d"
+          "Value": "0sgxkvnduc"
         },
         {
           "Name": "label",
@@ -2307,18 +2170,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DNpJgvmUyh0JJMNv1mAyOMxDWewntzSkBsLYhNAPfgA="
+          "Value": "sha256-DEAzy+hc6GhAR4KBgN4AvR2Tk6X2nfEisi5mMvBQyus="
         }
       ]
     },
     {
-      "Route": "BlazorApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\wo77s772mi-c3cr2i76in.gz",
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-0sgxkvnduc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000696864111"
+          "Quality": "0.000622277536"
         }
       ],
       "ResponseHeaders": [
@@ -2328,15 +2191,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1434"
+          "Value": "1606"
         },
         {
           "Name": "ETag",
-          "Value": "\"mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk=\""
+          "Value": "\"DEAzy+hc6GhAR4KBgN4AvR2Tk6X2nfEisi5mMvBQyus=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2356,13 +2219,150 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw=\""
+          "Value": "W/\"MPODKwmQ2NJFH5eMMRw/XQ62CS2b3xJxIWmZOb+gW5Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw="
+          "Value": "sha256-MPODKwmQ2NJFH5eMMRw/XQ62CS2b3xJxIWmZOb+gW5Q="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MPODKwmQ2NJFH5eMMRw/XQ62CS2b3xJxIWmZOb+gW5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 03:10:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MPODKwmQ2NJFH5eMMRw/XQ62CS2b3xJxIWmZOb+gW5Q="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\niqfivrdr6-0sgxkvnduc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DEAzy+hc6GhAR4KBgN4AvR2Tk6X2nfEisi5mMvBQyus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 03:10:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DEAzy+hc6GhAR4KBgN4AvR2Tk6X2nfEisi5mMvBQyus="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\wo77s772mi-w28kdzg5y3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000660066007"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1514"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48="
         }
       ]
     },
@@ -2377,7 +2377,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5135"
+          "Value": "5437"
         },
         {
           "Name": "Content-Type",
@@ -2385,11 +2385,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw=\""
+          "Value": "\"6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2399,13 +2399,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw="
+          "Value": "sha256-6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48="
         }
       ]
     },
     {
       "Route": "BlazorApp.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\wo77s772mi-c3cr2i76in.gz",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\wo77s772mi-w28kdzg5y3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2414,7 +2414,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1434"
+          "Value": "1514"
         },
         {
           "Name": "Content-Type",
@@ -2422,11 +2422,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk=\""
+          "Value": "\"7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2444,18 +2444,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk="
+          "Value": "sha256-7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0="
         }
       ]
     },
     {
-      "Route": "BlazorApp.c3cr2i76in.bundle.scp.css",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\wo77s772mi-c3cr2i76in.gz",
+      "Route": "BlazorApp.styles.css",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\io2m3ndci8-w28kdzg5y3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000696864111"
+          "Quality": "0.000660066007"
         }
       ],
       "ResponseHeaders": [
@@ -2465,15 +2465,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1434"
+          "Value": "1514"
         },
         {
           "Name": "ETag",
-          "Value": "\"mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk=\""
+          "Value": "\"7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp.styles.css",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp.styles.css.gz",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\io2m3ndci8-w28kdzg5y3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorApp.w28kdzg5y3.bundle.scp.css",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\wo77s772mi-w28kdzg5y3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000660066007"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1514"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2493,13 +2630,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw=\""
+          "Value": "W/\"6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c3cr2i76in"
+          "Value": "w28kdzg5y3"
         },
         {
           "Name": "label",
@@ -2507,12 +2644,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw="
+          "Value": "sha256-6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48="
         }
       ]
     },
     {
-      "Route": "BlazorApp.c3cr2i76in.bundle.scp.css",
+      "Route": "BlazorApp.w28kdzg5y3.bundle.scp.css",
       "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2522,7 +2659,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5135"
+          "Value": "5437"
         },
         {
           "Name": "Content-Type",
@@ -2530,11 +2667,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw=\""
+          "Value": "\"6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2544,7 +2681,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c3cr2i76in"
+          "Value": "w28kdzg5y3"
         },
         {
           "Name": "label",
@@ -2552,13 +2689,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw="
+          "Value": "sha256-6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48="
         }
       ]
     },
     {
-      "Route": "BlazorApp.c3cr2i76in.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\wo77s772mi-c3cr2i76in.gz",
+      "Route": "BlazorApp.w28kdzg5y3.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\wo77s772mi-w28kdzg5y3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2567,7 +2704,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1434"
+          "Value": "1514"
         },
         {
           "Name": "Content-Type",
@@ -2575,11 +2712,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk=\""
+          "Value": "\"7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2597,7 +2734,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c3cr2i76in"
+          "Value": "w28kdzg5y3"
         },
         {
           "Name": "label",
@@ -2605,18 +2742,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk="
+          "Value": "sha256-7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0="
         }
       ]
     },
     {
-      "Route": "BlazorApp.c3cr2i76in.styles.css",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\io2m3ndci8-c3cr2i76in.gz",
+      "Route": "BlazorApp.w28kdzg5y3.styles.css",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\io2m3ndci8-w28kdzg5y3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000696864111"
+          "Quality": "0.000660066007"
         }
       ],
       "ResponseHeaders": [
@@ -2626,15 +2763,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1434"
+          "Value": "1514"
         },
         {
           "Name": "ETag",
-          "Value": "\"mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk=\""
+          "Value": "\"7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2654,13 +2791,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw=\""
+          "Value": "W/\"6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c3cr2i76in"
+          "Value": "w28kdzg5y3"
         },
         {
           "Name": "label",
@@ -2668,12 +2805,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw="
+          "Value": "sha256-6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48="
         }
       ]
     },
     {
-      "Route": "BlazorApp.c3cr2i76in.styles.css",
+      "Route": "BlazorApp.w28kdzg5y3.styles.css",
       "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2683,7 +2820,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5135"
+          "Value": "5437"
         },
         {
           "Name": "Content-Type",
@@ -2691,11 +2828,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw=\""
+          "Value": "\"6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2705,7 +2842,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c3cr2i76in"
+          "Value": "w28kdzg5y3"
         },
         {
           "Name": "label",
@@ -2713,13 +2850,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw="
+          "Value": "sha256-6D62o/gNML5PSW1qPZNsKu8p4H9Z77QuFeexeBkdl48="
         }
       ]
     },
     {
-      "Route": "BlazorApp.c3cr2i76in.styles.css.gz",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\io2m3ndci8-c3cr2i76in.gz",
+      "Route": "BlazorApp.w28kdzg5y3.styles.css.gz",
+      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\io2m3ndci8-w28kdzg5y3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2728,7 +2865,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1434"
+          "Value": "1514"
         },
         {
           "Name": "Content-Type",
@@ -2736,11 +2873,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk=\""
+          "Value": "\"7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
+          "Value": "Sat, 30 Nov 2024 03:10:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2758,7 +2895,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c3cr2i76in"
+          "Value": "w28kdzg5y3"
         },
         {
           "Name": "label",
@@ -2766,144 +2903,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk="
-        }
-      ]
-    },
-    {
-      "Route": "BlazorApp.styles.css",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\io2m3ndci8-c3cr2i76in.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000696864111"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1434"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw="
-        }
-      ]
-    },
-    {
-      "Route": "BlazorApp.styles.css",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorApp.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5135"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+C/DRODD+Lp9dm6tuI4itOahRmaiBeFx+lY0Ldljqiw="
-        }
-      ]
-    },
-    {
-      "Route": "BlazorApp.styles.css.gz",
-      "AssetFile": "C:\\Users\\alvia\\OneDrive\\Documents\\interviewPrep\\blazor-app\\BlazorApp\\obj\\Debug\\net9.0\\compressed\\io2m3ndci8-c3cr2i76in.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1434"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 30 Nov 2024 01:55:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mc2Kq7UFfynJDxtaqgSCOSLB+YDIovGZVMlcCV2t6vk="
+          "Value": "sha256-7pUDQkJth34FJC1xZwZvEiIEnh1/8gVldK6Zf/icDh0="
         }
       ]
     },
