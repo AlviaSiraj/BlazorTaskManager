@@ -1,0 +1,129 @@
+.justify-center {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;     
+    font-family: 'Roboto', sans-serif;
+}
+
+.list{
+    list-style: none; 
+    padding: 0;       
+    margin-bottom: 10; 
+    display: grid;
+    justify-content: center; 
+    align-items: center;     
+      
+}
+/* To-do container for cards */
+.to-do-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows cards to wrap to the next line if needed */
+    justify-content: center; /* Center-aligns cards */
+    gap: 12px; /* Space between cards */
+    margin-bottom: 20px;
+}
+/* Individual to-do cards */
+.todo-card {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.big-card {
+    border: 2px solid #3a3939;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto; /* Center big card */
+    text-align: center;
+}
+.input-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; /* Space between input and button */
+}
+
+/* Input box styling */
+.input-box {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: calc(100% - 120px);
+    max-width: 200px;
+}
+
+/* Add button styling */
+.add-button {
+    padding: 8px 16px;
+    background-color: #0078D7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.add-button:hover {
+    background-color: #005A9E;
+}   
+
+.input-section {
+    display: flex;
+    justify-content: flex-end; /* Aligns the button to the right */
+    padding: 10px; /* Adds some space around the section */
+    position: relative; /* Allows the button's absolute positioning if needed */
+}
+
+.add-button {
+    background-color: #0078D7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    /* Optional for absolute positioning within the section */
+    position: relative;
+    right: 0;
+}
+
+.close-button:hover {
+    background-color: #c62828;
+}
+.add-button:hover {
+    background-color: #07589b;
+}
+
+.start-timer{
+    background-color: #0078D7;
+    color: white;
+    border: none;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 5px 13px;
+    cursor: pointer;
+}
+.global-timer {
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+    font-weight: bold;
+    color: #b16d9b;
+    background-color: #f3f3f3;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    width: 250px;
+    height: 70px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+}

@@ -1,0 +1,21 @@
+.title-bar {
+    background-color: rgb(243, 205, 218); /* Solid blue background */
+    color: black;            /* White text for contrast */
+    padding: 15px;           /* Padding around the title */
+    text-align: center;      /* Center the title text */
+    font-size: 1.5rem;       /* Adjust the font size for prominence */
+    font-weight: bold;       /* Make the title stand out */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+    font-family: 'Jaro', sans-serif;
+    margin-top: 10px;
+    border-radius: 60px;
+}
+
+main {
+    background: linear-gradient(to bottom, #E3F2FD, #F5F5F5);
+    padding: 20px;           /* Add padding around the content */
+    min-height: calc(100vh - 60px); /* Ensure the content fills the viewport */
+    box-sizing: border-box;  /* Include padding in height calculations */
+    margin-top: 50;
+}
+

@@ -1,0 +1,161 @@
+﻿@page "/"
+@using BlazorApp.Models
+@using BlazorApp.Components.Layout
+
+@rendermode InteractiveServer
+
+<PageTitle>To-Do HomePage</PageTitle>
+
+<h3 class="justify-center">Tasks</h3>
+
+<div class="big-card">
+    <div class="to-do-container">
+        @foreach (var todo in todos)
+        {
+            <div class="todo-card">
+                <p style="font-weight: bold; border-radius: 30px; background-color: rgb(237, 206, 221);">@todo.Title</p>
+                <p>@todo.Description</p>
+                <p>
+                    @if (todo.Time == 0)
+                    {
+                        @:Time's up!
+
+                    }
+                    else if (todo.Time == 30)
+                    {
+                        @:30 mins
+
+                    }
+                    else if (todo.Time % 60 == 0)
+                    {
+                        @($"{todo.Time / 60} hour{(todo.Time / 60 > 1 ? "s" : "")}")
+                    }
+                    else
+                    {
+                        @($"{todo.Time / 60}.{((todo.Time % 60) / 30 == 1 ? "5" : "0")} hours")
+                    }
+                </p>
+            </div>
+        }
+    </div>
+    @if (todos.Count == 0)
+    {
+        <p>No tasks added yet</p>
+    }
+    else
+    {
+        <button class="start-timer" @onclick="ToggleTimer">@timerButton</button>
+    }
+
+    <div class="global-timer">
+        @if (IsTimerRunning)
+        {
+            <p>@TimeDisplay</p>
+        }
+        else
+        {
+            <p>00:00</p>
+        }
+    </div>
+    <div class="input-section">
+        <button class="add-button" @onclick="AddTodo">Add Todo</button>
+    </div>
+</div>
+
+@* if popup is visible: 
+<AddToDo/>*@
+@if (isPopupVisible)
+{
+    <AddToDo Title="Add New Todo" IsVisible="@isPopupVisible" OnClose="closePopup" Todos="@todos" NewTodo="@newTodo" />
+
+}
+
+@code {
+    private List<TodoItem> todos = new();
+    string newTodo = "";
+    private bool isPopupVisible = false;
+    private bool IsTimerRunning = false; // Tracks whether the timer is running
+    private string timerButton => IsTimerRunning ? "Stop Timer" : "Start Timer"; // Button text
+    private int totalTime = 0;
+    private Timer? _timer; // Timer reference
+    private string TimeDisplay
+    {
+        get
+        {
+            if (totalTime >= 3600) // If totalTime is over or equal to 1 hour
+            {
+                return $"{totalTime / 3600:D2}:{(totalTime % 3600) / 60:D2}:{totalTime % 60:D2}"; // HH:MM:SS
+            }
+            else
+            {
+                return $"{(totalTime / 60):D2}:{totalTime % 60:D2}"; // MM:SS
+            }
+        }
+    }
+
+    void AddTodo()
+    {
+        isPopupVisible = true;
+    }
+
+    void closePopup()
+    {
+        isPopupVisible = false;
+    }
+
+    private void ToggleTimer()
+    {
+        if (IsTimerRunning)
+        {
+            StopTimer();
+        }
+        else
+        {
+            StartTimer();
+        }
+    }
+
+    void GetTotalTime()
+    {
+        foreach (var todo in todos)
+        {
+            Console.WriteLine(todo.Time);
+            totalTime += todo.Time ?? 0;
+        }
+        Console.WriteLine(totalTime);
+    }
+    void StartTimer()
+    {
+        GetTotalTime();
+        totalTime *= 60; // Convert minutes to seconds
+        IsTimerRunning = true;
+        if (_timer != null)
+        {
+            _timer.Dispose(); // Stop any existing timer if running
+        }
+
+        _timer = new Timer(UpdateCountdown, null, 0, 1000); // Start countdown with a 1-second interval
+    }
+    private void StopTimer()
+    {
+        totalTime = 0;
+        _timer.Dispose();
+        IsTimerRunning = false;
+    }
+
+
+    private void UpdateCountdown(object? state)
+    {
+        if (totalTime > 0)
+        {
+            totalTime--; // Decrease the total time by 1 second
+        }
+        else
+        {
+            _timer?.Dispose(); // Stop the timer when it reaches 0
+        }
+
+        InvokeAsync(StateHasChanged); // Ensure the UI gets updated on the main thread
+    }
+
+}

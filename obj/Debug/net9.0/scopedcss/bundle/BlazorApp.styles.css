@@ -1,0 +1,210 @@
+/* _content/BlazorApp/Components/Layout/AddToDo.razor.rz.scp.css */
+.popup-overlay[b-gj907a8nah] {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.popup-content[b-gj907a8nah] {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.close-button[b-gj907a8nah] {
+    background-color: #e53935;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.add-button[b-gj907a8nah] {
+    background-color: #0078D7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.close-button:hover[b-gj907a8nah] {
+    background-color: #c62828;
+}
+.add-button:hover[b-gj907a8nah] {
+    background-color: #07589b;
+}
+input[b-gj907a8nah]{
+    margin: 10px;
+}
+
+
+select[b-gj907a8nah] {
+   margin: 10px;    
+   width: 200px; 
+   height: 30px; 
+   overflow-y: scroll;
+}
+/* _content/BlazorApp/Components/Layout/MainLayout.razor.rz.scp.css */
+.title-bar[b-qgsvw684bo] {
+    background-color: rgb(243, 205, 218); /* Solid blue background */
+    color: black;            /* White text for contrast */
+    padding: 15px;           /* Padding around the title */
+    text-align: center;      /* Center the title text */
+    font-size: 1.5rem;       /* Adjust the font size for prominence */
+    font-weight: bold;       /* Make the title stand out */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+    font-family: 'Jaro', sans-serif;
+    margin-top: 10px;
+    border-radius: 60px;
+}
+
+main[b-qgsvw684bo] {
+    background: linear-gradient(to bottom, #E3F2FD, #F5F5F5);
+    padding: 20px;           /* Add padding around the content */
+    min-height: calc(100vh - 60px); /* Ensure the content fills the viewport */
+    box-sizing: border-box;  /* Include padding in height calculations */
+    margin-top: 50;
+}
+
+/* _content/BlazorApp/Components/Pages/Home.razor.rz.scp.css */
+.justify-center[b-7gt2111kuu] {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;     
+    font-family: 'Roboto', sans-serif;
+}
+
+.list[b-7gt2111kuu]{
+    list-style: none; 
+    padding: 0;       
+    margin-bottom: 10; 
+    display: grid;
+    justify-content: center; 
+    align-items: center;     
+      
+}
+/* To-do container for cards */
+.to-do-container[b-7gt2111kuu] {
+    display: flex;
+    flex-wrap: wrap; /* Allows cards to wrap to the next line if needed */
+    justify-content: center; /* Center-aligns cards */
+    gap: 12px; /* Space between cards */
+    margin-bottom: 20px;
+}
+/* Individual to-do cards */
+.todo-card[b-7gt2111kuu] {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.big-card[b-7gt2111kuu] {
+    border: 2px solid #3a3939;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto; /* Center big card */
+    text-align: center;
+}
+.input-section[b-7gt2111kuu] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; /* Space between input and button */
+}
+
+/* Input box styling */
+.input-box[b-7gt2111kuu] {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: calc(100% - 120px);
+    max-width: 200px;
+}
+
+/* Add button styling */
+.add-button[b-7gt2111kuu] {
+    padding: 8px 16px;
+    background-color: #0078D7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.add-button:hover[b-7gt2111kuu] {
+    background-color: #005A9E;
+}   
+
+.input-section[b-7gt2111kuu] {
+    display: flex;
+    justify-content: flex-end; /* Aligns the button to the right */
+    padding: 10px; /* Adds some space around the section */
+    position: relative; /* Allows the button's absolute positioning if needed */
+}
+
+.add-button[b-7gt2111kuu] {
+    background-color: #0078D7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    /* Optional for absolute positioning within the section */
+    position: relative;
+    right: 0;
+}
+
+.close-button:hover[b-7gt2111kuu] {
+    background-color: #c62828;
+}
+.add-button:hover[b-7gt2111kuu] {
+    background-color: #07589b;
+}
+
+.start-timer[b-7gt2111kuu]{
+    background-color: #0078D7;
+    color: white;
+    border: none;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 5px 13px;
+    cursor: pointer;
+}
+.global-timer[b-7gt2111kuu] {
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+    font-weight: bold;
+    color: #b16d9b;
+    background-color: #f3f3f3;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    width: 250px;
+    height: 70px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+}

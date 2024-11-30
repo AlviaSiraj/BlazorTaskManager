@@ -1,0 +1,50 @@
+﻿@using BlazorApp.Components
+@using BlazorApp.Models
+
+<div class="popup-overlay" style="@(IsVisible ? "display: flex;" : "display: none;")" @onclick="ClosePopup">
+    <div class="popup-content" @onclick:stopPropagation>
+        <h3>@Title</h3>
+        <input type="text" @bind="NewTodo" placeholder="Enter new task" />
+        <input type="text" @bind="NewDescription" placeholder="Enter Description" />
+        <select @bind="Time">
+            @for (double i = 0.5; i <= 12; i += 0.5)
+            {
+                <option value="@((int)(i * 60))">
+                    @((i == 0.5) ? "30 mins" : $"{i} hour{(i > 1 ? "s" : "")}")
+                </option>
+            }
+        </select>
+        <button class="close-button" @onclick="ClosePopup">Close</button>
+        <button class="add-button" @onclick="AddItem">Add</button>
+    </div>
+</div>
+
+@code {
+    [Parameter] public bool IsVisible { get; set; }
+    [Parameter] public string Title { get; set; } = "";
+    [Parameter] public EventCallback OnClose { get; set; }
+    [Parameter] public List<TodoItem> Todos { get; set; } = new();
+    [Parameter] public string NewTodo { get; set; } = string.Empty;
+    public string NewDescription { get; set; } = string.Empty;
+    public int Time { get; set; } = 30;
+
+    private async Task ClosePopup()
+    {
+        if (OnClose.HasDelegate)
+        {
+            await OnClose.InvokeAsync();
+        }
+    }
+
+    private void AddItem()
+    {
+        if (!string.IsNullOrWhiteSpace(NewTodo))
+        {
+            Todos.Add(new TodoItem { Title = NewTodo, Description = NewDescription, Time = Time });
+            NewTodo = string.Empty;
+            NewDescription = string.Empty;
+            Time = 30;
+        }
+        ClosePopup();
+    }
+}
